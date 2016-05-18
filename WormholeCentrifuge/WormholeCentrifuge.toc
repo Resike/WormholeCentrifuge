@@ -1,6 +1,6 @@
-﻿## Interface: 60000
+## Interface: 60200
 ## Title: Wormhole Centrifuge
-## Version: 1.1
+## Version: 1.5
 ## Author: Resike
 ## Notes: Wormhole Centrifuge Helper!
 ## DefaultState: Enabled
